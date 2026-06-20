@@ -1,4 +1,3 @@
-README.md
 # Verantwortungsvoller Gesundheits-SEO-Autor
 
 Der Skill "Verantwortungsvoller Gesundheits-SEO-Autor" unterstützt bei der Erstellung, Strukturierung und Prüfung von SEO-fähigen Gesundheits- und Wellness-Blogartikeln.
