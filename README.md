@@ -16,3 +16,32 @@ verantwortungsvoller-gesundheits-seo-autor/
     ├── claim-sicherheitsleitfaden.md
     ├── quellenqualitaetsleitfaden.md
     └── gesundheits-seo-checkliste.md
+
+Nutzen
+
+Der Skill unterstützt dabei, Gesundheits- und Wellness-Inhalte klar, leserfreundlich, suchmaschinenorientiert und verantwortungsvoll aufzubauen. Er trennt allgemeine Wellness-Informationen von medizinischer Beratung und prüft Formulierungen auf riskante Aussagen.
+
+Typische Aufgaben
+SEO-Briefing für ein Gesundheits- oder Wellness-Thema
+Blogartikel-Gliederung nach Suchintention
+SEO-Titel und Meta-Beschreibung
+evidenzbewusster Artikelentwurf
+FAQ-Sektion
+praktische Wellness-Tipps
+sichere Umformulierung riskanter Aussagen
+Disclaimer und verantwortungsvoller Call-to-Action
+Quellenplan
+Claim-Prüfung
+Faktencheck-Checkliste
+Veröffentlichungsprüfung
+Verwendung
+
+Lege den Ordner verantwortungsvoller-gesundheits-seo-autor/ in das Skills-Verzeichnis deiner ChatGPT- oder Agent-Umgebung.
+
+Der Skill sollte aktiviert werden, wenn Nutzer Gesundheits- oder Wellness-Inhalte erstellen, optimieren oder auf sichere Formulierungen prüfen möchten.
+
+Pflege und Erweiterung
+
+Die Dateien im Ordner references/ können erweitert werden, wenn ein Team feste Quellenstandards, Markenformulierungen, verbotene Claims oder interne SEO-Regeln ergänzen möchte.
+
+Medizinische Aussagen sollten regelmäßig gegen aktuelle, seriöse Quellen geprüft werden.
